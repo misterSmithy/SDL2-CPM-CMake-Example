@@ -5,4 +5,4 @@ Example on how to import SDL2 via CPM (CMake Package Manager) into a CMake proje
 
 It downloads and imports CPM if not present, dowloads it. I have to do some some small tricks on CMakeLists.txt to link SDL2 into your executable correctly.
 
-#So Crazy! A Change!
+#So Crazy! A Change! And More!
